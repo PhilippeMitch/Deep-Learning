@@ -1,0 +1,6 @@
+[submodule "Trafic-Sign-Detection-"]
+	path = Trafic-Sign-Detection-
+	url = https://github.com/PhilippeMitch/Trafic-Sign-Detection-.git
+[submodule "Trafic Sign Detection"]
+	path = Trafic Sign Detection
+	url = https://github.com/PhilippeMitch/Trafic-Sign-Detection-.git

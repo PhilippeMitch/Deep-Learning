@@ -4,3 +4,6 @@
 [submodule "Trafic Sign Detection"]
 	path = Trafic Sign Detection
 	url = https://github.com/PhilippeMitch/Trafic-Sign-Detection-.git
+[submodule "Process FASHION MNIST Dataset"]
+	path = Process FASHION MNIST Dataset
+	url = https://github.com/PhilippeMitch/Process-FASHION-MNIST-dataset.git
